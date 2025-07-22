@@ -1,4 +1,4 @@
-![rikyrism]([https://github.com/dipdown/dipdown/blob/main/rikyrism.gif](https://github.com/davanuroza/davanuroza/blob/main/pixel-jeff-chill-mario-2023-2.gif))
+([https://github.com/dipdown/dipdown/blob/main/rikyrism.gif](https://github.com/davanuroza/davanuroza/blob/main/pixel-jeff-chill-mario-2023-2.gif))
 
 
 # Hi there 👋
