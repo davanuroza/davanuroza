@@ -4,11 +4,9 @@
 
 # Hi there! 👋 I'm Muhammad Dava Nuroza
 ## 🚀 About Me
-- 🌱 I'm currently learning **[Technology/Framework]**
-- 👯 I'm looking to collaborate on **[Project Type]**
-- 💬 Ask me about **[Your Expertise]**
-- 📫 How to reach me: **[Your Email]**
-- ⚡ Fun fact: **[Something interesting about you]**
+- 🌱 I'm currently learning **Laravel, React, etc**
+- 💬 Ask me about **Website**
+- 📫 How to reach me: **muhammaddavanuroza123@gmail.com**
 
 ## 🛠️ Technologies & Tools
 
