@@ -1,5 +1,6 @@
-https://github.com/davanuroza/davanuroza/blob/main/pixel-jeff-chill-mario-2023-2.gif
-
+<div align="center">
+  <img src="https://github.com/davanuroza/davanuroza/blob/main/pixel-jeff-chill-mario-2023-2.gif" alt="Animation" width="400"/>
+</div>
 # Hi there 👋
 
 I'm Dava Nuroza – a passionate software developer from Indonesia 🇮🇩
