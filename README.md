@@ -1,3 +1,6 @@
+![My cool gif]([mygif.gif](https://github.com/davanuroza/davanuroza/blob/main/pixel-jeff-chill-mario-2023-2.gif))
+
+
 # Hi there 👋
 
 I'm Dava Nuroza – a passionate software developer from Indonesia 🇮🇩
