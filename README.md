@@ -12,7 +12,7 @@
 
 ## 🛠️ Technologies & Tools
 
-<div align="center">
+<div>
 
 ### **Languages**
 [![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](https://developer.mozilla.org/en-US/docs/Web/JavaScript)
@@ -47,31 +47,6 @@
 [![Figma](https://img.shields.io/badge/-Figma-F24E1E?style=for-the-badge&logo=figma&logoColor=white)](https://www.figma.com/)
 
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&theme=radical&hide_border=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&theme=radical&hide_border=true&layout=compact)
-
-</div>
-
-## 🏆 GitHub Trophies
-<div align="center">
-  
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=YOUR_USERNAME&theme=radical&no-frame=true&row=1&column=6)
-
-</div>
-
-## 📈 Contribution Graph
-![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=react-dark&hide_border=true)
-
-## 🎯 Current Projects
-- 🔭 Working on **[Project Name]** - [Brief Description]
-- 📚 Learning **[New Technology]**
-- 🎨 Building **[Creative Project]**
 
 ## 📫 Connect with Me
 
