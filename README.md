@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://github.com/davanuroza/davanuroza/blob/main/pixel-jeff-chill-mario-2023-2.gif" alt="Animation"/>
+  <img src="https://github.com/davanuroza/davanuroza/blob/main/gif.gif" alt="Animation"/>
 </div>
 
 # Hi there! 👋 I'm Muhammad Dava Nuroza
